@@ -7,7 +7,7 @@
 - 💻 I design and build **scalable backend systems**
 - 🧪 I test applications with a **quality-first mindset**
 - 🔍 Strong in **finding bugs before users do**
-- ⚡ Improving **UI skills (Angular + UX thinking)**
+- ⚡ Improving **UI skills (React + Angular + UX thinking)**
 - 🎯 Goal: Become a **Top SDET / Full Stack Engineer**
 
 ---
@@ -17,12 +17,13 @@
 ### 👨‍💻 Developer Mode
 - 🔹 Java, Spring Boot (REST APIs)
 - 🔹 Spring Security (JWT, Role-based Auth)
-- 🔹 Angular (Frontend Development)
-- 🔹 MySQL Database Design
+- 🔹 Angular/ React (Frontend Development)
+- 🔹 MySQL/ MongoDB / Oracle Database Design
 - 🔹 Microservices (Learning Phase)
 
 ### 🧪 Tester Mode (SDET)
 - 🔹 REST Assured (API Automation)
+- 🔹 Selenium WebDriver
 - 🔹 TestNG (Framework Design)
 - 🔹 Postman (API Testing)
 - 🔹 Functional & Regression Testing
@@ -78,8 +79,8 @@
 ---
 
 ## 🌐 Connect With Me
-- 💼 LinkedIn: (Add your link)
-- 📧 Email: (Add your email)
+- 💼 LinkedIn: www.linkedin.com/in/pothina-jaswanth-kumar
+- 📧 Email: pothinajaswanthkumar@gmail.com
 
 ---
 
