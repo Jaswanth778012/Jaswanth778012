@@ -54,7 +54,7 @@
 ## 🛠️ Tech Toolbox
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,spring,angular,js,html,css,mysql,git,postman" />
+<img src="https://skillicons.dev/icons?i=java,spring,angular,js,html,css,mysql,git,postman,react,testng" />
 </p>
 
 ---
