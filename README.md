@@ -54,20 +54,9 @@
 ## 🛠️ Tech Toolbox
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,spring,angular,js,html,css,mysql,git,postman,react,testng" />
+<img src="https://skillicons.dev/icons?i=java,spring,angular,js,html,css,mysql,git,postman,react" />
 </p>
 
----
-
-## 📊 GitHub Pulse
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jaswanth778012&show_icons=true&theme=tokyonight&cache_seconds=60" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Jaswanth778012&theme=tokyonight" />
-</p>
 ---
 
 ## 🎯 What Makes Me Different?
